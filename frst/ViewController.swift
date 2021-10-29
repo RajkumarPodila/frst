@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("welcome word")
         print("mkjiuoo")
         print("klioj")
+        print("nhj")
         // Do any additional setup after loading the view.
     }
 
